@@ -17,5 +17,12 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.0"
+  },
+  "bin": {
+    "phish": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnbfox/phish-cli.git"
   }
 }
