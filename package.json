@@ -1,0 +1,21 @@
+{
+  "name": "phish-cli",
+  "version": "1.0.0",
+  "description": "Command line tool for listening to random phish shows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Phish",
+    "music",
+    "jam",
+    "band",
+    "listen"
+  ],
+  "author": "John Fox",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
