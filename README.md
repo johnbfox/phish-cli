@@ -2,6 +2,8 @@
 
 Opens a random show from phish.in and phish.net, straight from your terminal!
 
+![Screenshot](screenshot.png)
+
 ## Requirements
 
 1. NodeJs and npm
